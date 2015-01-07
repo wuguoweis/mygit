@@ -5,4 +5,9 @@ git is a distributed system
 terryT
 terryterry
 terry1
+<<<<<<< HEAD
+Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple
+>>>>>>> 1
 Creating a new branch is quick & simple.
